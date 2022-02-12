@@ -1,4 +1,4 @@
-# supervised_machine_learning-credit_risk
+# Supervised Machine Learning Homework - Predicting Credit Risk
 
 ## How do the model scores compare to each other, and to the previous results on unscaled data? How does this compare to your prediction? Write down your results and thoughts
 
