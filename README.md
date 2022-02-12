@@ -1,6 +1,6 @@
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
-## Steps as follows
+## Instructions
 
 1. Retrieve the data
 
